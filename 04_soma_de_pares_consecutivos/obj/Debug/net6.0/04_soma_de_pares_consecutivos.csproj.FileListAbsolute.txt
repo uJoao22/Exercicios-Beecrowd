@@ -1,0 +1,15 @@
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\bin\Debug\net6.0\04_soma_de_pares_consecutivos.exe
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\bin\Debug\net6.0\04_soma_de_pares_consecutivos.deps.json
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\bin\Debug\net6.0\04_soma_de_pares_consecutivos.runtimeconfig.json
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\bin\Debug\net6.0\04_soma_de_pares_consecutivos.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\bin\Debug\net6.0\04_soma_de_pares_consecutivos.pdb
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\obj\Debug\net6.0\04_soma_de_pares_consecutivos.csproj.AssemblyReference.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\obj\Debug\net6.0\04_soma_de_pares_consecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\obj\Debug\net6.0\04_soma_de_pares_consecutivos.AssemblyInfoInputs.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\obj\Debug\net6.0\04_soma_de_pares_consecutivos.AssemblyInfo.cs
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\obj\Debug\net6.0\04_soma_de_pares_consecutivos.csproj.CoreCompileInputs.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\obj\Debug\net6.0\04_soma_de_pares_consecutivos.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\obj\Debug\net6.0\refint\04_soma_de_pares_consecutivos.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\obj\Debug\net6.0\04_soma_de_pares_consecutivos.pdb
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\obj\Debug\net6.0\04_soma_de_pares_consecutivos.genruntimeconfig.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\04_soma_de_pares_consecutivos\obj\Debug\net6.0\ref\04_soma_de_pares_consecutivos.dll

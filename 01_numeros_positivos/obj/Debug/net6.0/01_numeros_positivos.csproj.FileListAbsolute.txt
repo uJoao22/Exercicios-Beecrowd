@@ -1,0 +1,15 @@
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\bin\Debug\net6.0\01_numeros_positivos.exe
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\bin\Debug\net6.0\01_numeros_positivos.deps.json
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\bin\Debug\net6.0\01_numeros_positivos.runtimeconfig.json
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\bin\Debug\net6.0\01_numeros_positivos.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\bin\Debug\net6.0\01_numeros_positivos.pdb
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\obj\Debug\net6.0\01_numeros_positivos.csproj.AssemblyReference.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\obj\Debug\net6.0\01_numeros_positivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\obj\Debug\net6.0\01_numeros_positivos.AssemblyInfoInputs.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\obj\Debug\net6.0\01_numeros_positivos.AssemblyInfo.cs
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\obj\Debug\net6.0\01_numeros_positivos.csproj.CoreCompileInputs.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\obj\Debug\net6.0\01_numeros_positivos.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\obj\Debug\net6.0\refint\01_numeros_positivos.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\obj\Debug\net6.0\01_numeros_positivos.pdb
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\obj\Debug\net6.0\01_numeros_positivos.genruntimeconfig.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\01_numeros_positivos\obj\Debug\net6.0\ref\01_numeros_positivos.dll

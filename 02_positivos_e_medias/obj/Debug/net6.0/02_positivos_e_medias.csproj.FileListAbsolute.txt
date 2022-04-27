@@ -1,0 +1,15 @@
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\bin\Debug\net6.0\02_positivos_e_medias.exe
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\bin\Debug\net6.0\02_positivos_e_medias.deps.json
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\bin\Debug\net6.0\02_positivos_e_medias.runtimeconfig.json
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\bin\Debug\net6.0\02_positivos_e_medias.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\bin\Debug\net6.0\02_positivos_e_medias.pdb
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\obj\Debug\net6.0\02_positivos_e_medias.csproj.AssemblyReference.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\obj\Debug\net6.0\02_positivos_e_medias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\obj\Debug\net6.0\02_positivos_e_medias.AssemblyInfoInputs.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\obj\Debug\net6.0\02_positivos_e_medias.AssemblyInfo.cs
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\obj\Debug\net6.0\02_positivos_e_medias.csproj.CoreCompileInputs.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\obj\Debug\net6.0\02_positivos_e_medias.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\obj\Debug\net6.0\refint\02_positivos_e_medias.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\obj\Debug\net6.0\02_positivos_e_medias.pdb
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\obj\Debug\net6.0\02_positivos_e_medias.genruntimeconfig.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\02_positivos_e_medias\obj\Debug\net6.0\ref\02_positivos_e_medias.dll
