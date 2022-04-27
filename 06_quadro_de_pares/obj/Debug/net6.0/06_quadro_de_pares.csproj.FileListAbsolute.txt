@@ -1,0 +1,15 @@
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\bin\Debug\net6.0\06_quadro_de_pares.exe
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\bin\Debug\net6.0\06_quadro_de_pares.deps.json
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\bin\Debug\net6.0\06_quadro_de_pares.runtimeconfig.json
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\bin\Debug\net6.0\06_quadro_de_pares.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\bin\Debug\net6.0\06_quadro_de_pares.pdb
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\obj\Debug\net6.0\06_quadro_de_pares.csproj.AssemblyReference.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\obj\Debug\net6.0\06_quadro_de_pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\obj\Debug\net6.0\06_quadro_de_pares.AssemblyInfoInputs.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\obj\Debug\net6.0\06_quadro_de_pares.AssemblyInfo.cs
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\obj\Debug\net6.0\06_quadro_de_pares.csproj.CoreCompileInputs.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\obj\Debug\net6.0\06_quadro_de_pares.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\obj\Debug\net6.0\refint\06_quadro_de_pares.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\obj\Debug\net6.0\06_quadro_de_pares.pdb
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\obj\Debug\net6.0\06_quadro_de_pares.genruntimeconfig.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\06_quadro_de_pares\obj\Debug\net6.0\ref\06_quadro_de_pares.dll

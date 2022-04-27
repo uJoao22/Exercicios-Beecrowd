@@ -1,0 +1,15 @@
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\bin\Debug\net6.0\07_tabuada.exe
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\bin\Debug\net6.0\07_tabuada.deps.json
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\bin\Debug\net6.0\07_tabuada.runtimeconfig.json
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\bin\Debug\net6.0\07_tabuada.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\bin\Debug\net6.0\07_tabuada.pdb
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\obj\Debug\net6.0\07_tabuada.csproj.AssemblyReference.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\obj\Debug\net6.0\07_tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\obj\Debug\net6.0\07_tabuada.AssemblyInfoInputs.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\obj\Debug\net6.0\07_tabuada.AssemblyInfo.cs
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\obj\Debug\net6.0\07_tabuada.csproj.CoreCompileInputs.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\obj\Debug\net6.0\07_tabuada.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\obj\Debug\net6.0\refint\07_tabuada.dll
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\obj\Debug\net6.0\07_tabuada.pdb
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\obj\Debug\net6.0\07_tabuada.genruntimeconfig.cache
+C:\Users\1382123\Desktop\Lista 2-Beecrowd\07_tabuada\obj\Debug\net6.0\ref\07_tabuada.dll
